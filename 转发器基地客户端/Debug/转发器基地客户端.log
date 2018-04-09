@@ -1,0 +1,6 @@
+﻿  mainWnd.cpp
+e:\clr\转发器基地客户端\转发器基地客户端\mainWnd.h(198): warning C4101: “buff”: 未引用的局部变量
+e:\clr\转发器基地客户端\转发器基地客户端\mainWnd.h(230): warning C4477: “snprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“System::String ^”
+  json_reader.obj :托管的代码存在时 /DEBUG:FASTLINK 不受支持；正在重新启动与 /DEBUG:FULL 的链接
+  转发器基地客户端.vcxproj -> E:\clr\转发器基地客户端\Debug\转发器基地客户端.exe
+  转发器基地客户端.vcxproj -> E:\clr\转发器基地客户端\Debug\转发器基地客户端.pdb (Partial PDB)
